@@ -1,0 +1,19 @@
+From 95efe3701fd05293e78ddeb5c1622f13ca6e6d43 Mon Sep 17 00:00:00 2001
+From: Tim S <stahta01@users.sourceforge.net>
+Date: Sat, 10 Mar 2018 18:49:48 -0500
+Subject: [PATCH] git: Remove line from git ignore file.
+
+---
+ .gitignore | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/.gitignore b/.gitignore
+index 77ec993..8b13789 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1 +1 @@
+-/test.in
++
+-- 
+2.16.2.windows.1
+
